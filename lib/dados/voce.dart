@@ -1,9 +1,9 @@
 // ignore_for_file: unnecessary_string_interpolations, import_of_legacy_library_into_null_safe
 
 import 'package:flutter/material.dart';
-import 'cadastro.dart';
+import '../login/cadastro.dart';
 import 'aplicativo.dart';
-import 'fotos.dart';
+import '../imagens/fotos.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class Voce extends StatefulWidget {

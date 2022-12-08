@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:camera_camera/camera_camera.dart';
 import 'package:gallery_saver/gallery_saver.dart';
-import 'aplicativo.dart';
-import 'voce.dart';
+import '../dados/aplicativo.dart';
+import '../dados/voce.dart';
 
 class Fotos extends StatefulWidget {
   const Fotos({super.key});

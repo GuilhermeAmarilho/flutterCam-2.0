@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'voce.dart';
-import 'fotos.dart';
+import '../imagens/fotos.dart';
 
 class Aplicativo extends StatefulWidget {
   const Aplicativo({super.key});

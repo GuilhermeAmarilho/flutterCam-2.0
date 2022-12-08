@@ -1,7 +1,7 @@
 // ignore_for_file: camel_case_types, library_private_types_in_public_api, unused_element, import_of_legacy_library_into_null_safe, unused_import, avoid_print
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'voce.dart';
+import '../dados/voce.dart';
 import 'cadastro.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:google_fonts/google_fonts.dart';
