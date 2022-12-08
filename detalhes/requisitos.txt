@@ -1,0 +1,17 @@
+Atividade Avaliativa 1	
+Crie um aplicativo para android ou ios que:
+
+ - Tenha uma tela de Splash Screen; - Feito
+ - Utilize alguma forma de armazenamento como Shared Preferences ou sqlite (pode ser somente local); - Feito
+ - Tenha pelo menos três telas. Além dessas, adicionar uma tela "about" que contenha seu nome e uma descrição do seu app; - Feito
+ - Precisa navegar entre as páginas (Navigator -> MaterialPageRouter) - Feito
+ - Utilizar pelo menos três packages de terceiro; - Feito , Google Fonts, Shared Preferences, Camera, Gallery Saver
+ - Utilizar algum recurso de smartphone (camera, microfone, gps, etc) - Feito
+
+Opcional:
+ - Adicionar alguma animação; 
+ - Alterar o icone do aplicativo ao ser instalado - Feito
+
+Avaliação
+ - Apresentar o trabalho no lab D04 (05/10)
+ - Disponibilizar o código-fonte (link do GitHub)
