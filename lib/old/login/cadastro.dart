@@ -47,16 +47,17 @@ class _CadastroState extends State<Cadastro> {
                     color: Colors.black26, blurRadius: 6, offset: Offset(0, 2))
               ]),
           height: 60,
-          child: TextField(
+          child: TextFormField(
             controller: nameController,
             keyboardType: TextInputType.name,
             style: const TextStyle(color: Colors.black87),
             decoration: const InputDecoration(
-                border: InputBorder.none,
-                contentPadding: EdgeInsets.only(top: 14),
-                prefixIcon: Icon(Icons.email, color: Color(0xff348feb)),
-                hintText: 'Informe seu nome:',
-                hintStyle: TextStyle(color: Colors.black38)),
+              border: InputBorder.none,
+              contentPadding: EdgeInsets.only(top: 14),
+              prefixIcon: Icon(Icons.email, color: Color(0xff348feb)),
+              hintText: 'Informe seu nome:',
+              hintStyle: TextStyle(color: Colors.black38),
+            ),
           ),
         )
       ],

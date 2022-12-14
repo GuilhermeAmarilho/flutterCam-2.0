@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393567676133",
+    "project_id": "projeto-para-flutter-com-api",
+    "storage_bucket": "projeto-para-flutter-com-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393567676133:android:bb75da6f11109213c4d60c",
+        "android_client_info": {
+          "package_name": "com.example.fluttercam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393567676133-5rorv5n9nmm67feji6u5c2n8ardmls11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3fCITJgI-iERg8V6cvb4bwRAo1w27dW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393567676133-5rorv5n9nmm67feji6u5c2n8ardmls11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

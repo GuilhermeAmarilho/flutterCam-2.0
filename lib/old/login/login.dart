@@ -1,4 +1,4 @@
-// ignore_for_file: camel_case_types, library_private_types_in_public_api, unused_element, import_of_legacy_library_into_null_safe, unused_import, avoid_print
+// ignore_for_file: camel_case_types, library_private_types_in_public_api, unused_element, import_of_legacy_library_into_null_safe, unused_import, avoid_print, unused_field
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../dados/voce.dart';
@@ -183,6 +183,8 @@ class _loginState extends State<login> {
         text: const TextSpan(children: [
           TextSpan(
             text: 'Não possui conta? ',
+            // recognizer: new TapGestureRecognizer()
+            //   ..onTap = () => print('Tap Here onTap'),
             style: TextStyle(
               color: Colors.white,
               fontSize: 18,
